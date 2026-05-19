@@ -47,7 +47,7 @@ const products: Product[] = [{
   name: "Cinnamon Hot Whipped Honey",
   description: "Try something different. This treat infuses our wildflower honey with spicy chili pepper and aromatic cinnamon, whipped together into a delightfully creamy blend.",
   price: "$15",
-  size: "8 oz",
+  size: "10 oz",
   image: cinnamonHotHoney
 }, {
   id: 5,
