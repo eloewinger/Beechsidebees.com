@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
             />
             <div>
               <h3 className="font-display text-xl font-semibold">Beechside Bees</h3>
-              <p className="text-background/70 text-sm">Ponce Inlet Honey • Est. 2023</p>
+              <p className="text-background/70 text-sm">Halifax River Honey • Est. 2023</p>
             </div>
           </div>
 

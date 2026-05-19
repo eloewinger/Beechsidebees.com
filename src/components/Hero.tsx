@@ -32,11 +32,11 @@ const Hero: React.FC = () => {
             </div>
             
             <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-              Pure Organic Honey
+              Small-Batch Local Honey
               <span className="block text-gradient-honey">From Our Bees to You</span>
             </h1>
             
-            <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0">Hand-bottled with love in Ponce Inlet, Florida. Our 100% organic raw honey is harvested from happy, healthy bees.</p>
+            <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0">Hand-bottled with love in Ponce Inlet, Florida. Our 100% raw honey is harvested from happy, healthy bees.</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
               <Button variant="hero" size="xl" onClick={scrollToProducts}>
