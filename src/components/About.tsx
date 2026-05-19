@@ -29,7 +29,7 @@ const About: React.FC = () => {
 
 
 My daughter got me my first hive as a birthday present in 2023, and after that I was hooked on bees.  </p>
-              <p>Since then, we've been dedicated to producing delicious raw, unfiltered honey, the way nature intended. Our bees forage nectar from local Ponce Inlet plants, like Black Mangroves and Brazilian Pepper, creating a unique flavor in every jar.</p>
+              <p>Since then, we've been dedicated to producing delicious raw, unfiltered honey, the way nature intended. Our bees forage nectar from local Ponce Inlet plants, like Black Mangrove and Brazilian Pepper, creating a unique flavor in every jar.</p>
               <p>We believe in sustainable beekeeping practices that prioritize the health of our hives and the environment. When you choose Beechside Bees, you're supporting local pollinators and enjoying pure Florida honey. </p>
             </div>
 
