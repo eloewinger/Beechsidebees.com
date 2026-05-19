@@ -132,7 +132,7 @@ const Products: React.FC = () => {
                 </p>
                 
                 <Button variant={product.soldOut || product.badge === 'Coming Soon' ? 'outline' : 'honey'} className="w-full mt-4" onClick={scrollToContact} disabled={product.soldOut || product.badge === 'Coming Soon'}>
-                  {product.soldOut ? 'Sold Out' : product.badge === 'Coming Soon' ? 'Coming Soon' : 'Ask About Availability'}
+                  {product.soldOut ? 'Sold Out' : product.badge === 'Coming Soon' ? 'Coming Soon' : 'Request to Order'}
                 </Button>
               </div>
             </div>)}
